@@ -1,0 +1,22 @@
+[Facebook_Logins]
+LoginsPerAnIp = 5
+SwitchToNewProxyEvery = 5
+
+[Tinder]
+Threads=50
+LoginSleep = 20
+CheckForMatchedUsersEveryXLikes = 3000
+AmountOfLikesPerPause = 1000
+PauseInSeconds = 10
+LikePauseInSeconds = 2
+TimeoutPauseInSeconds = 300
+MatchesToMessageAmount = 9000
+
+
+[Proxies]
+Proxy_List = "DIR"
+OneAccountPerAnIp=Y
+NeverDeleteProxies=Y
+UseRandomProxies=1
+[Banned_Accounts]
+Recheck_To_See_If_Banned_NumberOfTries = 1
