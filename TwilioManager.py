@@ -3,8 +3,8 @@ import time
 from twilio.rest import TwilioRestClient
 
 
-ACCOUNT_SID = 'ACbbc1ca1314db9cae20f3c488dec14c7a'
-AUTH_TOKEN = '983782249529ec6e36fbb39f007d999d'
+ACCOUNT_SID = 'your_key_here'
+AUTH_TOKEN = 'Your_key_here'
 COUNTRIES = ['FI', 'PL', 'GA']
 
 
